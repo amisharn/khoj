@@ -21,4 +21,4 @@ A search engine built from scratch to learn and implement Information Retrieval 
 
 ## Goal
 
-The objective of this project is to understand how search engines work by implementing each retrieval technique from scratch instead of relying on existing libraries. The project begins with classical Information Retrieval techniques and progressively evolves into a modern semantic search system powered by embeddings and RAG.
+The objective of this project is to understand how search engines work by implementing each retrieval technique. The project begins with classical Information Retrieval techniques and progressively evolves into a modern semantic search system powered by embeddings and RAG.
