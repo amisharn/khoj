@@ -1,6 +1,6 @@
 # Khoj
 
-##Currently under progress.
+## Currently under progress.
 
 A search engine built from scratch to learn and implement Information Retrieval concepts, starting with keyword search and gradually progressing to semantic search, hybrid retrieval, and Retrieval-Augmented Generation (RAG).
 
