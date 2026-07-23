@@ -25,3 +25,21 @@ What did i learn?
 - Every model requires processing text as the first step.
 
 - Term frequency lets us know locally important words as they occur frequently but IDF lets us know rare words across documents that helps us discriminate while ranking documents.
+
+Day 3
+
+What did i do?
+
+- Implemented TF-IDF, Vectorization, Cosine Similarity and Top K Retrieval.
+
+- Implemented a loader for pdfs.
+
+What did i learn?
+
+- I'm getting used to with python lists and dictionaries.
+
+- TF-IDF balances the frequency and discriminative power of each word.
+
+- Cosine Similarity makes it easy to compare the angle between two vectors.
+
+- Search engines rank documents based on relevance scores rather than exact matches.Relevancy is at center in IR systems.
