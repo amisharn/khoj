@@ -18,7 +18,7 @@ Khoj is a search engine built from scratch to learn and implement Information Re
 The project currently compares classical keyword-based retrieval with semantic retrieval on the same query.
 
 <p align="center">
-  <img src="docs/current_progress.png" alt="Khoj Current Progress" width="800"/>
+  <img src="docs/current_progress.png" alt="Khoj Current Progress" width="400"/>
 </p>
 
 _Current console output showing Keyword Search, TF-IDF ranking, and Semantic Search results._
