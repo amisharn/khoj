@@ -42,4 +42,22 @@ What did i learn?
 
 - Cosine Similarity makes it easy to compare the angle between two vectors.
 
-- Search engines rank documents based on relevance scores rather than exact matches.Relevancy is at center in IR systems.
+- Search engines rank documents based on relevance scores rather than exact matches. Relevancy is at center in IR systems.
+
+Day 4
+
+What did i do?
+
+- Understood how Vector Embeddings represent the semantic meaning of text.
+
+- Implemented semantic search with vector embeddings using Sentence Transformers and Cosine Similarity.
+
+- Generated and stored document embeddings for retrieval.
+
+What did i learn?
+
+- In vector embedding each dimension contributes to representing the meaning of the text rather than of a specific individual word.
+
+- Once I understood the workflow from my VSM that I made yesterday I used libraries like Sentence Transformers, scikit-learn for cosine similarity for efficiency.
+
+- Different type of data structure and workflow as compared to my made-from-scratch sparse vectors from yesterday.

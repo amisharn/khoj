@@ -1,7 +1,6 @@
 from pathlib import Path
 from pypdf import PdfReader
 
-folder = Path("backend/data/raw")
 
 def load_documents(folder: Path):
     docs = {}

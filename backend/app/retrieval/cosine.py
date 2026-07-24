@@ -19,4 +19,3 @@ def cosine_similarity(vector1,vector2):
        return 0
    return numerator/denominator
 
-
