@@ -68,7 +68,7 @@ print(f"\n------------------------------------------------\n")
 scores = similarity_scores(query_vector,document_vector)
 results = result(scores)
 
-print("\n Top Results TF-IDF:")
+print("\n Top k Results TF-IDF:")
 
 for rank, (doc,score) in enumerate(results,start=1):
     print (f"\n {rank}. {doc} (score:{score:.4f})")
